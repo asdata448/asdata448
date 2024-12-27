@@ -1,27 +1,27 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=asdata448.asdata448" />
+<img align="right" src="https://camo.githubusercontent.com/cd2506fcb1a3f6a4b4fe63fe94e8ac6f5d912350c9e2784897c3bc6d28aff7a5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5669736974732d31383939362d626c7565" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=300&color=0076F7&background=FF804C00&center=true&vCenter=true&width=435&lines=WELCOME+!!!;I'm+Nguyen+Anh%2C+a+Programmer" alt="Typing SVG" /></a>
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">A passionate software developer from VietNam</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently studying at **University of Science, VietNam National University**
  
  🌱 I’m currently learning **Docker, Supabase, AWS**
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/asdata448/asdata448/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **I've never have GF**
 
  </div>
  
 <div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
+  <a href="mailto:tameanhanh@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
