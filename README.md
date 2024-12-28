@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/840625a2-5a45-486d-a88b-94b47b810307)<img align="right" src="https://camo.githubusercontent.com/cd2506fcb1a3f6a4b4fe63fe94e8ac6f5d912350c9e2784897c3bc6d28aff7a5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5669736974732d31383939362d626c7565" />
+<img align="right" src="https://camo.githubusercontent.com/cd2506fcb1a3f6a4b4fe63fe94e8ac6f5d912350c9e2784897c3bc6d28aff7a5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5669736974732d31383939362d626c7565" />
 
 <h1 align="center">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=300&color=0076F7&background=FF804C00&center=true&vCenter=true&width=435&lines=WELCOME+!!!;I'm+Nguyen+Anh%2C+a+Programmer" alt="Typing SVG" /></a>
